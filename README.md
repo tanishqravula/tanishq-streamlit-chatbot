@@ -1,8 +1,8 @@
 # st-chat
 
-Streamlit Component, for a Chat-bot UI, [example app](https://share.streamlit.io/ai-yash/st-chat/main/examples/chatbot.py)
+Streamlit Component, for a Chat-bot UI, [example app](https://share.streamlit.io/ai-tanishq/st-chat/main/examples/chatbot.py)
 
-authors - [@yashppawar](https://github.com/yashppawar) & [@YashVardhan-AI](https://github.com/yashvardhan-ai)
+authors - [@tanishqravula](https://github.com/tanishq)
 
 ## Installation
 
