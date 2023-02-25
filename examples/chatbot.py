@@ -10,7 +10,7 @@ st.set_page_config(
 API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
 headers = {"Authorization": st.secrets['api_key']}
 
-st.header("Streamlit Chat - Demo")
+st.header("Health Care Chat Bot")
 st.markdown("[Github](https://github.com/ai-tanishq/st-chat)")
 
 if 'generated' not in st.session_state:
