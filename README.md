@@ -2,7 +2,7 @@
 
 Streamlit Component, for a Chat-bot UI, [example app](https://share.streamlit.io/ai-yash/st-chat/main/examples/chatbot.py)
 
-authors - [@tanishqravula](https://github.com/tanishqravula) & [@YashVardhan-AI](https://github.com/yash-ai)
+authors - [@tanishqravula](https://github.com/tanishqravula) & [@Tanishq Ravula-AI](https://github.com/yash-ai)
 
 ## Installation
 
