@@ -3,7 +3,7 @@ from streamlit_chat import message
 import requests
 
 st.set_page_config(
-    page_title="Streamlit Chat - Demo",
+    page_title="Health Care Chat bot",
     page_icon=":robot:"
 )
 
